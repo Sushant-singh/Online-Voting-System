@@ -73,3 +73,5 @@ Limitations:
 1.	This program can be made online but due to lack of knowledge of GUI’s and javascript couldn’t be implemented that way.
 2.	Multiple voters can’t vote simultaneously.
 3.	Large number of voters aren’t supported as the number of votes would exceed the range of int.
+4.	You need to clear the text files of all 6 political parties after the end of every execution.
+5.	This is a con which can be resolved easily i.e. a file of all the voter names and their voter Id's be stored to check if the person is eligible to vote or not.
